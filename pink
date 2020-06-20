@@ -242,16 +242,16 @@
 
 .theme-dark .tooltipGrey-1hnvTt,
 .theme-light .tooltipGrey-1hnvTt {
-    background-color: black;
+    background-color: #ff00ff;
 }
 
 .theme-dark .tooltipGrey-1hnvTt .tooltipPointer-3ZfirK,
 .theme-light .tooltipGrey-1hnvTt .tooltipPointer-3ZfirK {
-    border-top-color: black;
+    border-top-color: #ff00ff;
 }
 
 .theme-dark .item-3T2z1R {
-    border-color: black;
+    border-color: #ff00ff;
 }
 
 .theme-dark .tiles-2aXG_k {
